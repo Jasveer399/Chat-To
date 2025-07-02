@@ -1,4 +1,4 @@
-module github.com/Jasveer399/web-service-gin
+module github.com/Jasveer399/Chat-To
 
 go 1.24.2
 
