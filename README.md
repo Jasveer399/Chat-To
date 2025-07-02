@@ -1,6 +1,6 @@
 # Go Web Server With Real Time
 
-This project is a web server built with Go, using the Gin framework for handling HTTP requests, JWT for authentication, and WebSockets for real-time communication. It includes user registration and login functionality, and a secure WebSocket connection.
+This project is a web server built with Go, using net/http go Package for handling HTTP requests, JWT for authentication, and WebSockets for real-time communication. It includes user registration and login functionality, and a secure WebSocket connection.
 
 ## Features
 
