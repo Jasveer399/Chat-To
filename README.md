@@ -1,4 +1,4 @@
-# Go Web Server with Gin
+# Go Web Server With Real Time
 
 This project is a web server built with Go, using the Gin framework for handling HTTP requests, JWT for authentication, and WebSockets for real-time communication. It includes user registration and login functionality, and a secure WebSocket connection.
 
@@ -95,7 +95,6 @@ The server will start on `http://localhost:3000`.
 
 ## Dependencies
 
-- [Gin](https://github.com/gin-gonic/gin): HTTP web framework.
 - [GORM](https://gorm.io/): ORM library for Go.
 - [PostgreSQL Driver for GORM](https://gorm.io/docs/connecting_to_the_database.html#PostgreSQL): PostgreSQL database driver for GORM.
 - [JWT for Go](https://github.com/golang-jwt/jwt): JSON Web Token implementation for Go.
