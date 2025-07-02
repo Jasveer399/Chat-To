@@ -3,8 +3,8 @@ package websocket
 import (
 	"encoding/json"
 
-	"github.com/Jasveer399/web-service-gin/database"
-	"github.com/Jasveer399/web-service-gin/models"
+	"github.com/Jasveer399/Chat-To/database"
+	"github.com/Jasveer399/Chat-To/models"
 	"github.com/gorilla/websocket"
 )
 

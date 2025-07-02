@@ -1,6 +1,6 @@
 package database
 
-import "github.com/Jasveer399/web-service-gin/models"
+import "github.com/Jasveer399/Chat-To/models"
 
 func Migrate() {
 	DB.AutoMigrate(&models.Message{})

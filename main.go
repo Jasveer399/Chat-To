@@ -4,10 +4,10 @@ import (
 	"log"
 	"net/http"
 
-	controllers "github.com/Jasveer399/web-service-gin/controllers/auth"
-	"github.com/Jasveer399/web-service-gin/database"
-	"github.com/Jasveer399/web-service-gin/middleware"
-	"github.com/Jasveer399/web-service-gin/websocket"
+	controllers "github.com/Jasveer399/Chat-To/controllers/auth"
+	"github.com/Jasveer399/Chat-To/database"
+	"github.com/Jasveer399/Chat-To/middleware"
+	"github.com/Jasveer399/Chat-To/websocket"
 )
 
 func main() {

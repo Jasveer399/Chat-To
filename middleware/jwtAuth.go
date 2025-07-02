@@ -6,10 +6,10 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/Jasveer399/web-service-gin/common"
-	"github.com/Jasveer399/web-service-gin/database"
-	"github.com/Jasveer399/web-service-gin/models"
-	"github.com/Jasveer399/web-service-gin/utils"
+	"github.com/Jasveer399/Chat-To/common"
+	"github.com/Jasveer399/Chat-To/database"
+	"github.com/Jasveer399/Chat-To/models"
+	"github.com/Jasveer399/Chat-To/utils"
 	"github.com/golang-jwt/jwt/v5"
 )
 

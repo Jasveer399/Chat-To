@@ -3,7 +3,7 @@ package websocket
 import (
 	"net/http"
 
-	"github.com/Jasveer399/web-service-gin/middleware"
+	"github.com/Jasveer399/Chat-To/middleware"
 	"github.com/gorilla/websocket"
 )
 
